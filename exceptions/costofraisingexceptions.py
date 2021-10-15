@@ -29,4 +29,4 @@ if xfactor == None:
 print("second code ", timeit(code2, number=10000))
 # runs 10000 times and gives execution time
 # raising exceptions for small apps is okay
-# it is really slow for large user base
+# it is really slow for large user base.

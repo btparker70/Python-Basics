@@ -31,4 +31,4 @@ the basics of python courses by Mosh
   - they take a small amount of memory
 7. stacks
   - LIFO: last in - first out
-8. sets are unordered and cannoy be accessed by index
+8. sets are unordered and cannoy be accessed by index.
